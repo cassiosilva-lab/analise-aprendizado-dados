@@ -34,7 +34,7 @@ O volume era alto — mas o retorno, não proporcional.
 ├── 📄 README.md
 ├── 📊 Base_Analise_Aprendizado_Dados.xls       # Base de dados com registros de estudo
 ├── 📑 Relatorio_Analise_Aprendizado_Dados.pdf  # Relatório técnico completo
-└── 📊 Apresentacao_Analise_Aprendizado.pdf     # Apresentação com visualizações
+└── 📊 Analise_Aprendizado_Dados_Cassio_Bonfim.pdf     # Apresentação com visualizações
 ```
 
 ---
