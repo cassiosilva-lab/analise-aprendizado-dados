@@ -70,37 +70,36 @@ As ferramentas foram utilizadas de forma intencional e simples, com foco na aná
 
 ## 📈 Principais Resultados
 
-### Retenção antes e depois da mudança de estratégia
+### Retenção antes vs depois
 
-| Período | Retenção Média |
-|---|---|
-| Antes | 25,2 |
-| Depois | 83,0 |
+![Antes vs depois](grafico_antes_depois.png)
 
-### Retenção por tipo de estudo
+> A mudança de estratégia resultou em aumento expressivo na retenção média (de 25,2 para 83,0).
 
-| Método | Retenção Média |
-|---|---|
-| Prática | 83,0 |
-| Vídeo | 25,2 |
+---
 
-### Retenção média por ferramenta (geral)
+### Retenção por método de estudo
 
-| Ferramenta | Retenção Média |
-|---|---|
-| SQL | 46,8 |
-| Excel | 43,8 |
-| Power BI | 20,0 |
-| Python | 12,0 |
+![Prática vs vídeo](grafico_pratica_vs_video.png)
 
-### Evolução da retenção por ferramenta (antes → depois)
+> Métodos práticos apresentaram retenção significativamente superior ao estudo passivo, indicando que o método foi o principal fator de melhoria.
 
-| Ferramenta | Antes | Depois |
-|---|---|---|
-| SQL | 16,7 | 83,0 |
-| Excel | 43,75 | 43,75 |
-| Power BI | 20,0 | 20,0 |
-| Python | 12,0 | 12,0 |
+---
+
+### Retenção média por ferramenta
+
+![Ferramentas](grafico_ferramentas.png)
+
+> Ferramentas estudadas sem foco apresentaram menor retenção, enquanto o aprofundamento em SQL gerou melhores resultados.
+
+---
+
+### Evolução da retenção por ferramenta
+
+![Evolução por ferramenta](grafico_evolucao_ferramenta.png)
+
+> O SQL apresentou a maior evolução, passando de 16,7 para 83,0 pontos de retenção média após a mudança de estratégia.
+
 
 > O SQL foi a única ferramenta estudada com foco e método prático no segundo período, o que contribui para a diferença expressiva.
 
