@@ -72,7 +72,7 @@ As ferramentas foram utilizadas de forma intencional e simples, com foco na aná
 
 ### Retenção antes vs depois
 
-![Antes vs depois](grafico_antes_depois.png)
+![Antes vs depois](grafico_retencao_antes_depois.png)
 
 > A mudança de estratégia resultou em aumento expressivo na retenção média (de 25,2 para 83,0).
 
@@ -96,7 +96,7 @@ As ferramentas foram utilizadas de forma intencional e simples, com foco na aná
 
 ### Evolução da retenção por ferramenta
 
-![Evolução por ferramenta](grafico_evolucao_ferramenta.png)
+![Evolução por ferramenta](evolucao_retencao_ferramenta.png)
 
 > O SQL apresentou a maior evolução, passando de 16,7 para 83,0 pontos de retenção média após a mudança de estratégia.
 
